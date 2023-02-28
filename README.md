@@ -35,9 +35,9 @@ Oracle_qoda.py: We have used QODA library to simulate quantum circuit.
 
 [1] K. Plekhanov, M. Rosenkranz, M. Fiorentini, and M. Lubasch, *[\"Variational Quantum Amplitude Estimation\"](https://arxiv.org/abs/2109.03687)*, Arxiv (2021).
 
-[2] Y. Suzuki, S. Uno, R. Raymond, T. Tanaka, T. Onodera, and N. Yamamoto, *Amplitude Estimation without Phase Estimation*, Quantum Inf Process 19, 75 (2020).
+[2] Y. Suzuki, S. Uno, R. Raymond, T. Tanaka, T. Onodera, and N. Yamamoto, *[\"Amplitude Estimation without Phase Estimation\"](https://arxiv.org/abs/1904.10246)*, Quantum Inf Process 19, 75 (2020).
 
 [3] G. Brassard, P. Høyer, M. Mosca, and A. Tapp, *Quantum Computation and Information*, Contemp Math 53 (2002).
 
-[4] A. Callison and D. E. Browne, *Improved Maximum-Likelihood Quantum Amplitude Estimation*
+[4] A. Callison and D. E. Browne, *[\"Improved Maximum-Likelihood Quantum Amplitude Estimation"\]*(https://arxiv.org/abs/2209.03321)
 , Arxiv (2022)
