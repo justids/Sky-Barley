@@ -14,6 +14,12 @@ Variational Quantum Amplitude Estimation (VQAE) is a modified one of MLAE, which
 
 In this project, Our team showed that VQAE method can approximate MLAE with small error, Variational Quantum Amplitude Estimation [1] and (2) using the All of our codes are exploited cuQuantum and Quantum Optimized Device Architecture (QODA) provided by NVIDIA.
 
+### File Description 
+QAE_with_MLAE.ipynb: Implemented MLAE with pennylane library. Also we have used lightning.gpu device which uses cuQuantum SDK.
+Oracle_qoda.py: We have used QODA library to simulate quantum circuit. 
+
+
+
 ### Presentation:
 
 [https://colab.research.google.com/drive/1qE2KCy4SBKtLRlL55SCjvZUf4IZaC2-y?usp=sharing](https://colab.research.google.com/drive/1qE2KCy4SBKtLRlL55SCjvZUf4IZaC2-y?usp=sharing)
@@ -27,7 +33,7 @@ In this project, Our team showed that VQAE method can approximate MLAE with smal
 
 ### References:
 
-[1] K. Plekhanov, M. Rosenkranz, M. Fiorentini, and M. Lubasch, *Variational Quantum Amplitude Estimation*, Arxiv (2021).
+[1] K. Plekhanov, M. Rosenkranz, M. Fiorentini, and M. Lubasch, *[\"Variational Quantum Amplitude Estimation\"](https://arxiv.org/abs/2109.03687)*, Arxiv (2021).
 
 [2] Y. Suzuki, S. Uno, R. Raymond, T. Tanaka, T. Onodera, and N. Yamamoto, *Amplitude Estimation without Phase Estimation*, Quantum Inf Process 19, 75 (2020).
 
