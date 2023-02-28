@@ -18,9 +18,6 @@ In this project, Our team showed that VQAE method can approximate MLAE with smal
 
 [https://colab.research.google.com/drive/1qE2KCy4SBKtLRlL55SCjvZUf4IZaC2-y?usp=sharing](https://colab.research.google.com/drive/1qE2KCy4SBKtLRlL55SCjvZUf4IZaC2-y?usp=sharing)
 
-### Source code:
-
-[https://github.com/VoicuTomut/Enhanced-Autoencoders-for-anomaly-detection](https://github.com/VoicuTomut/Enhanced-Autoencoders-for-anomaly-detection)
 
 ### Which challenges/prizes would you like to submit your project for?
 
