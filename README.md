@@ -17,6 +17,8 @@ In this project, Our team showed that VQAE method can approximate MLAE with smal
 ### File Description 
 QAE_with_MLAE.ipynb: Implemented MLAE with pennylane library. Also we have used lightning.gpu device which uses cuQuantum SDK.      
 Oracle_qoda.py: We have used QODA library to simulate quantum circuit. 
+VQAE: Implemented VQAE with pennylane library. Also we have used lightning.gpu device which uses cuQuantum SDK.
+VQAE2: Implemented VQAE with other cost systems. 
 
 
 
