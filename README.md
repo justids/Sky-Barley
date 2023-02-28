@@ -1,4 +1,4 @@
-# Sky-Barley
+# Multi Qubit Quantum Amplitude Estimation using Variational circuit
 Xandau Qhack Hackathon
 ### Team Name:
 
