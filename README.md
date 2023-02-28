@@ -24,9 +24,6 @@ In this project, Our team showed that VQAE method can approximate MLAE with smal
 - VQAE2.ipynb: Implemented VQAE with other cost systems. 
 
 
-
-
-
 ### Which challenges/prizes would you like to submit your project for?
 
 - NVIDIA Challenge : We exploited cuQauntum and QODA for executing the quantum circuits.
