@@ -39,5 +39,5 @@ Oracle_qoda.py: We have used QODA library to simulate quantum circuit.
 
 [3] G. Brassard, P. Høyer, M. Mosca, and A. Tapp, *Quantum Computation and Information*, Contemp Math 53 (2002).
 
-[4] A. Callison and D. E. Browne, *[\"Improved Maximum-Likelihood Quantum Amplitude Estimation\"]*(https://arxiv.org/abs/2209.03321)
+[4] A. Callison and D. E. Browne, *[\"Improved Maximum-Likelihood Quantum Amplitude Estimation\"](https://arxiv.org/abs/2209.03321)*
 , Arxiv (2022)
