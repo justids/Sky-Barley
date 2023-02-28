@@ -22,9 +22,6 @@ VQAE2: Implemented VQAE with other cost systems.
 
 
 
-### Presentation:
-
-[https://colab.research.google.com/drive/1qE2KCy4SBKtLRlL55SCjvZUf4IZaC2-y?usp=sharing](https://colab.research.google.com/drive/1qE2KCy4SBKtLRlL55SCjvZUf4IZaC2-y?usp=sharing)
 
 
 ### Which challenges/prizes would you like to submit your project for?
