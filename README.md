@@ -1,2 +1,40 @@
 # Sky-Barley
 Xandau Qhack Hackathon
+### Team Name:
+
+Sky Barley
+
+### Project Description:
+
+Quantum Amplitude Estimation(QAE) is an essential quantum algorithm with applications in quantum machine learning, quantum enhanced Monte-Carlo algorithm, finance, etc.[4] However, QAE uses Quantum Phase Estimation (QPE), which has a deep circuit depth and requires high performance from quantum hardware, making it difficult to operate on noisy intermediate-scale quantum (NISQ) devices.
+
+One algorithm that has been proposed to address these issues is Maximum Likelihood Amplitude Estimation(MLAE). MLAE does not use QPE, but instead exploits classical maximum likelihood estimation to implement a relatively simple circuit, and in certain situations, achieves quadratic speedups.
+
+Variational Quantum Amplitude Estimation (VQAE) is a modified one of MLAE, which adds variational optimization to reduce the depth of the circuit.
+
+In this project, Our team showed that VQAE method can approximate MLAE with small error, Variational Quantum Amplitude Estimation [1] and (2) using the All of our codes are exploited cuQuantum and Quantum Optimized Device Architecture (QODA) provided by NVIDIA.
+
+### Presentation:
+
+[https://colab.research.google.com/drive/1qE2KCy4SBKtLRlL55SCjvZUf4IZaC2-y?usp=sharing](https://colab.research.google.com/drive/1qE2KCy4SBKtLRlL55SCjvZUf4IZaC2-y?usp=sharing)
+
+### Source code:
+
+[https://github.com/VoicuTomut/Enhanced-Autoencoders-for-anomaly-detection](https://github.com/VoicuTomut/Enhanced-Autoencoders-for-anomaly-detection)
+
+### Which challenges/prizes would you like to submit your project for?
+
+- NVIDIA Challenge : We exploited cuQauntum and QODA for executing the quantum circuits.
+- Quantum computing today! : We reproduced the result of ref 4.
+- Hybrid Quantum-Classical Computing Challenge : We used variational circuit ansatz instead of exact oracle which has deep circuit depth.
+
+### References:
+
+[1] K. Plekhanov, M. Rosenkranz, M. Fiorentini, and M. Lubasch, *Variational Quantum Amplitude Estimation*, Arxiv (2021).
+
+[2] Y. Suzuki, S. Uno, R. Raymond, T. Tanaka, T. Onodera, and N. Yamamoto, *Amplitude Estimation without Phase Estimation*, Quantum Inf Process 19, 75 (2020).
+
+[3] G. Brassard, P. Høyer, M. Mosca, and A. Tapp, *Quantum Computation and Information*, Contemp Math 53 (2002).
+
+[4] A. Callison and D. E. Browne, *Improved Maximum-Likelihood Quantum Amplitude Estimation*
+, Arxiv (2022)
